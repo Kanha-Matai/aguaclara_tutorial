@@ -63,7 +63,7 @@ Insert the Cornell seal image with:
 
 Put the name of this file in an in-line (single backtick) code format.
 
-<!-- Write your answer here. -->
+
 
 Put the following text in a Python-formatted code block:
 
@@ -73,29 +73,40 @@ def foo():
     print("...floc together!")
 ```
 
-<!-- Write your answer here. -->
+`Interactive-Tutorial-1-Markdown.md`
+
+```python
+def foo():
+    print("Particles of a feather...")
+    print("...floc together!")
+```
+
 
 ## Tables
 
 Create a table listing your 3 favorite animals, books, and places on campus. Use a different alignment for each column.
 
-<!--- Write your answer here. --->
+| Books              | Animals  |   Food   |   Places |
+|:------------------ |:--------:|:--------:| --------:|
+| Buddha             |   Fish   |  Pizza   | Duffield |
+| Fault in our stars |   Dogs   |  Pasta   |     Olin |
+| Tintin             | Hamsters | Fallafel |   Donlon |
 
 
 ## Blockquotes
 
 Write your favorite quote. It must be attributed to Albert Einstein.
 
-<!-- Write your answer here. -->
+>when there is a will, there's a way ~ Albert Einstein
 
 ## Horizontal Rules
 
 Add a horizontal rule:
 
-<!-- Write your answer here. -->
+---
 
 ## LaTeX Formatting
 
 Copy the equation towards the end of the [Markdown tutorial](https://github.com/AguaClara/aguaclara_tutorial/wiki/Markdown#latex-formatting) and paste it here:
 
-<!-- Write your answer here. -->
+$$ a^2 + b^2 = c^2 $$
